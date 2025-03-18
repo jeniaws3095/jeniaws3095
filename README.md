@@ -1,40 +1,57 @@
 # Welcome to My DevOps Repository!
 
-👋 Hi, I’m @jeniaws3095
+👋 Hi, I’m Jeni Patel
 
 ## About Me
 - **👀 Interests:** DevOps, cloud computing, automation, CI/CD pipelines.
-- **🌱 Currently Learning:** Advanced Kubernetes, Terraform, and cloud-native technologies.
+- **🌱 Currently Learning:** Advanced DevOps practices and tools.
 - **💞️ Looking to Collaborate On:** DevOps projects, open-source contributions, infrastructure automation.
-- **📫 How to Reach Me:** [your_email@example.com]
-- **😄 Pronouns:** [Your Pronouns]
+- **📫 How to Reach Me:** pateljeni007.jp@gmail.com
+- **😄 Pronouns:** He/His
 - **⚡ Fun Fact:** I enjoy optimizing complex workflows and solving challenging infrastructure problems.
 
+## Skills and Tools
+- **Completed:** Jenkins, Docker, Kubernetes
+- **Currently Learning:** Advanced Terraform, Ansible, Prometheus, Grafana
+
 ## Projects
-Here are some of the projects I'm working on:
+Here are some of the projects I'm working on to further enhance my DevOps skills:
 
-### [Project 1: Kubernetes Cluster Setup](https://github.com/jeniaws3095/k8s-cluster-setup)
-- Description: Automating the deployment and management of Kubernetes clusters using Terraform and Helm.
-- Technologies: Kubernetes, Terraform, Helm, AWS.
+### 1. Kubernetes Cluster Deployment
+- **Objective:** Create a Kubernetes cluster from scratch and deploy a sample application.
+- **Technologies:** Kubernetes, Docker, Helm, Terraform.
+- **Description:** 
+  - Set up a Kubernetes cluster using tools like Minikube, kops, or managed services like EKS, GKE, or AKS.
+  - Use Terraform for infrastructure provisioning.
+  - Deploy a sample application, such as a simple web app, using Helm charts.
+  - Implement monitoring and logging with Prometheus and Grafana.
+- **Repository:** [Kubernetes Cluster Deployment](https://github.com/jeniaws3095/k8s-cluster-setup)
 
-### [Project 2: CI/CD Pipeline](https://github.com/jeniaws3095/cicd-pipeline)
-- Description: Setting up CI/CD pipelines using Jenkins, GitHub Actions, and Docker.
-- Technologies: Jenkins, GitHub Actions, Docker, Kubernetes.
+### 2. CI/CD Pipeline with Jenkins
+- **Objective:** Set up a continuous integration and continuous deployment (CI/CD) pipeline.
+- **Technologies:** Jenkins, GitHub Actions, Docker, Kubernetes.
+- **Description:** 
+  - Create a Jenkins pipeline to automate the build, test, and deployment of a sample application.
+  - Integrate Jenkins with GitHub for automatic triggers on commits and pull requests.
+  - Use Docker for containerizing the application and Kubernetes for deployment.
+  - Implement automated testing and deployment to a staging environment.
+- **Repository:** [CI/CD Pipeline with Jenkins](https://github.com/jeniaws3095/cicd-pipeline)
 
-### [Project 3: Infrastructure as Code](https://github.com/jeniaws3095/iac)
-- Description: Managing infrastructure using code with Terraform and Ansible.
-- Technologies: Terraform, Ansible, AWS, Azure.
-
-## Skills
-- **Languages:** Bash, Python, Go.
-- **Tools:** Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Ansible, Prometheus, Grafana.
-- **Cloud Providers:** AWS, Azure, Google Cloud.
+### 3. Infrastructure as Code with Terraform
+- **Objective:** Manage infrastructure using Terraform.
+- **Technologies:** Terraform, AWS or Azure.
+- **Description:** 
+  - Write Terraform scripts to provision infrastructure on AWS or Azure.
+  - Automate the deployment of resources such as VPCs, EC2 instances, S3 buckets, and RDS instances.
+  - Implement remote state management and version control for Terraform scripts.
+  - Create modules for reusable infrastructure components.
+- **Repository:** [Infrastructure as Code with Terraform](https://github.com/jeniaws3095/iac)
 
 ## Get in Touch
 Feel free to reach out to me if you have any questions or if you’re interested in collaborating on a project!
 
-- **Email:** [your_email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email:** pateljeni007.jp@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/jeni-patel-devops-engg)
 - **Twitter:** [Your Twitter Handle](https://twitter.com/your-handle)
 
 ## Contributions
