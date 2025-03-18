@@ -10,13 +10,9 @@
 - **😄 Pronouns:** He/His
 - **⚡ Fun Fact:** I enjoy optimizing complex workflows and solving challenging infrastructure problems.
 
-## Skills and Tools
-- **Completed:** Jenkins, Docker, Kubernetes
-- **Currently Learning:** Advanced Terraform, Ansible, Prometheus, Grafana
-
 ## 🛠️ Technologies & Tools
 - **DevOps Tools:** Jenkins, Docker, Kubernetes, Terraform, Ansible, Prometheus, Grafana
-- **Programming Languages:** Bash, Python, Go
+- **Programming Languages:** Bash
 - **Cloud Providers:** AWS, Azure, Google Cloud
 - **Others:** Git, GitHub Actions, Helm, VS Code
 
