@@ -1,4 +1,4 @@
-# Welcome to My DevOps Repository!
+# Welcome to My DevOps Portfolio
 
 👋 Hi, I’m Jeni Patel
 
