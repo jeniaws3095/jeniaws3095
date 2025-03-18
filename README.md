@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm a dedicated DevOps Engineer, passionate about 
 
 ## 🛠️ Technologies & Tools
 - **DevOps Tools:** Jenkins, Docker, Kubernetes, Terraform, Ansible, Prometheus, Grafana
-- **Programming Languages:** Bash, Python, Go
+- **Programming Languages:** Bash
 - **Cloud Providers:** AWS, Azure, Google Cloud
-- **Others:** Git, GitHub Actions, Helm, VS Code
+- **Others:** Git, GitHub Actions, VS Code
 
 ## 📈 GitHub Stats
 ![Jeni Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeniaws3095&show_icons=true)
