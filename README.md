@@ -49,6 +49,15 @@ Here are some of the projects I'm working on to further enhance my DevOps skills
   - Create modules for reusable infrastructure components.
 - **Repository:** [Infrastructure as Code with Terraform](#) (Add your repository link here)
 
+### 4. Dockerized Application Deployment
+- **Objective:** Containerize and deploy a sample application using Docker.
+- **Technologies:** Docker, Docker Compose.
+- **Description:** 
+  - Write a Dockerfile to containerize a sample application.
+  - Use Docker Compose to manage multi-container applications.
+  - Deploy the containerized application on a local machine or cloud environment.
+- **Repository:** [Dockerized Application Deployment](#) (Add your repository link here)
+
 ## Get in Touch
 Feel free to reach out to me if you have any questions or if you’re interested in collaborating on a project!
 
