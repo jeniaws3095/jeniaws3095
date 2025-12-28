@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.postimg.cc/fTh3qVv1/Jeni-Patel-Cloud-Devops-Banner.png" alt="Jeni Patel - Cloud DevOps Engineer Banner" width="100%" />
+</p>
+
 # Welcome to My DevOps Portfolio
 
 👋 Hi, I’m Jeni Patel
@@ -27,7 +31,7 @@ Here are some of the projects I'm working on to further enhance my DevOps skills
   - Use Terraform for infrastructure provisioning.
   - Deploy a sample application, such as a simple web app, using Helm charts.
   - Implement monitoring and logging with Prometheus and Grafana.
-- **Repository:** [Kubernetes Cluster Deployment](#) (Add your repository link here)
+- **Repository:** [Kubernetes Cluster Deployment](#)
 
 ### 2. CI/CD Pipeline with Jenkins
 - **Objective:** Set up a continuous integration and continuous deployment (CI/CD) pipeline.
@@ -37,7 +41,7 @@ Here are some of the projects I'm working on to further enhance my DevOps skills
   - Integrate Jenkins with GitHub for automatic triggers on commits and pull requests.
   - Use Docker for containerizing the application and Kubernetes for deployment.
   - Implement automated testing and deployment to a staging environment.
-- **Repository:** [CI/CD Pipeline with Jenkins](#) (Add your repository link here)
+- **Repository:** [CI/CD Pipeline with Jenkins](#)
 
 ### 3. Infrastructure as Code with Terraform
 - **Objective:** Manage infrastructure using Terraform.
@@ -47,7 +51,7 @@ Here are some of the projects I'm working on to further enhance my DevOps skills
   - Automate the deployment of resources such as VPCs, EC2 instances, S3 buckets, and RDS instances.
   - Implement remote state management and version control for Terraform scripts.
   - Create modules for reusable infrastructure components.
-- **Repository:** [Infrastructure as Code with Terraform](#) (Add your repository link here)
+- **Repository:** [Infrastructure as Code with Terraform](#)
 
 ### 4. Dockerized Application Deployment
 - **Objective:** Containerize and deploy a sample application using Docker.
@@ -56,7 +60,7 @@ Here are some of the projects I'm working on to further enhance my DevOps skills
   - Write a Dockerfile to containerize a sample application.
   - Use Docker Compose to manage multi-container applications.
   - Deploy the containerized application on a local machine or cloud environment.
-- **Repository:** [Dockerized Application Deployment](#) (Add your repository link here)
+- **Repository:** [Dockerized Application Deployment](#)
 
 ## Get in Touch
 Feel free to reach out to me if you have any questions or if you’re interested in collaborating on a project!
@@ -68,6 +72,4 @@ Feel free to reach out to me if you have any questions or if you’re interested
 I welcome contributions and feedback! Please feel free to submit issues and pull requests.
 
 ## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
+This repository is licensed under the MIT License.
