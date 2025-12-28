@@ -1,0 +1,77 @@
+<p align="center">
+  <img src="https://i.postimg.cc/fTh3qVv1/Jeni-Patel-Cloud-Devops-Banner.png" alt="Jeni Patel - Cloud DevOps Engineer Banner" width="100%" />
+</p>
+
+# Welcome to My DevOps Portfolio
+
+👋 Hi, I’m Jeni Patel
+
+## About Me
+- **👀 Interests:** DevOps, cloud computing, automation, CI/CD pipelines.
+- **🌱 Currently Learning:** Advanced DevOps practices and tools.
+- **💞️ Looking to Collaborate On:** DevOps projects, open-source contributions, infrastructure automation.
+- **📫 How to Reach Me:** pateljeni007.jp@gmail.com
+- **😄 Pronouns:** He/His
+- **⚡ Fun Fact:** I enjoy optimizing complex workflows and solving challenging infrastructure problems.
+
+## 🛠️ Technologies & Tools
+
+### 🔧 DevOps & Automation
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+### ☁️ Cloud Providers
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 💻 Languages & Others
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1628?style=for-the-badge&logo=helm) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Projects
+Here are some of the projects I'm working on to further enhance my DevOps skills:
+
+### 1. Kubernetes Cluster Deployment
+- **Objective:** Create a Kubernetes cluster from scratch and deploy a sample application.
+- **Technologies:** Kubernetes, Docker, Helm, Terraform.
+- **Description:** - Set up a Kubernetes cluster using managed services like EKS, GKE, or AKS.
+  - Use Terraform for infrastructure provisioning.
+  - Deploy a sample application using Helm charts.
+  - Implement monitoring with Prometheus and Grafana.
+- **Repository:** [Kubernetes Cluster Deployment](#)
+
+### 2. CI/CD Pipeline with Jenkins
+- **Objective:** Set up a continuous integration and continuous deployment (CI/CD) pipeline.
+- **Technologies:** Jenkins, GitHub Actions, Docker, Kubernetes.
+- **Description:** - Create a Jenkins pipeline to automate the build, test, and deployment.
+  - Integrate Jenkins with GitHub for automatic triggers.
+  - Use Docker for containerization and Kubernetes for deployment.
+- **Repository:** [CI/CD Pipeline with Jenkins](#)
+
+### 3. Infrastructure as Code with Terraform
+- **Objective:** Manage infrastructure using Terraform.
+- **Technologies:** Terraform, AWS or Azure.
+- **Description:** - Write Terraform scripts to provision VPCs, EC2, S3, and RDS.
+  - Implement remote state management and version control.
+  - Create reusable infrastructure modules.
+- **Repository:** [Infrastructure as Code with Terraform](#)
+
+### 4. Dockerized Application Deployment
+- **Objective:** Containerize and deploy a sample application using Docker.
+- **Technologies:** Docker, Docker Compose.
+- **Description:** - Write Dockerfiles to containerize applications.
+  - Use Docker Compose for multi-container orchestration.
+- **Repository:** [Dockerized Application Deployment](#)
+
+---
+
+## Get in Touch
+Feel free to reach out to me if you have any questions or if you’re interested in collaborating!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pateljeni007.jp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeni-patel-devops-engg)
+
+## Contributions
+I welcome contributions and feedback! Please feel free to submit issues and pull requests.
+
+## License
+This repository is licensed under the MIT License.
