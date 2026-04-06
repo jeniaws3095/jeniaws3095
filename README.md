@@ -37,15 +37,15 @@ Here are some of the projects I'm working on to further enhance my DevOps skills
   - Implement monitoring and logging with Prometheus and Grafana.
 - **Repository:** [Kubernetes Cluster Deployment](#)
 
-### 2. CI/CD Pipeline with Jenkins
-- **Objective:** Set up a continuous integration and continuous deployment (CI/CD) pipeline.
-- **Technologies:** Jenkins, GitHub Actions, Docker, Kubernetes.
+### 2. CI/CD Pipeline with Github Action
+- **Objective:** Set up a continuous integration and continuous deployment (CI/CD) pipeline for a static website.
+- **Technologies:** GitHub Actions, Amazon Web Services S3, IAM, CloudFront.
 - **Description:** 
-  - Create a Jenkins pipeline to automate the build, test, and deployment of a sample application.
-  - Integrate Jenkins with GitHub for automatic triggers on commits and pull requests.
-  - Use Docker for containerizing the application and Kubernetes for deployment.
-  - Implement automated testing and deployment to a staging environment.
-- **Repository:** [CI/CD Pipeline with Jenkins](#)
+  - Create a GitHub Actions workflow to automate build and deployment of a static website.
+  - Integrate GitHub repository to trigger deployment on commits.
+  - Use Amazon S3 for static website hosting and storage.
+  - Implement automated deployment with secure AWS credentials and optional CloudFront cache invalidation.
+- **Repository:** https://github.com/jenidevops30/portfolio.git
 
 ### 3. Infrastructure as Code with Terraform
 - **Objective:** Manage infrastructure using Terraform.
