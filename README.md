@@ -45,7 +45,7 @@ Here are some of the projects I'm working on to further enhance my DevOps skills
   - Integrate GitHub repository to trigger deployment on commits.
   - Use Amazon S3 for static website hosting and storage.
   - Implement automated deployment with secure AWS credentials and optional CloudFront cache invalidation.
-- **Repository:** https://github.com/jenidevops30/portfolio.git
+- **Repository:** : [CI/CD Pipeline with GitHub Actions](https://github.com/jenidevops30/portfolio.git)
 
 ### 3. Infrastructure as Code with Terraform
 - **Objective:** Manage infrastructure using Terraform.
