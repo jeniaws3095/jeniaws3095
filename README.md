@@ -1,47 +1,129 @@
-👋 Hi, I'm Jeni Patel
+# 👋 Hi, I'm Jeni Patel
 
-Cloud & DevOps Engineer
-AWS | Kubernetes | Terraform | CI/CD | Observability
+### ☁️ Cloud & DevOps Engineer
 
-🚀 About Me
+**AWS | Terraform | Kubernetes | CI/CD | Observability**
 
-Cloud/DevOps engineer focused on building reliable,
-automated and observable infrastructure.
+I build, automate, troubleshoot, and document cloud infrastructure and DevOps workflows with a focus on **reliability, automation, security, and operational excellence**.
 
-☁️ Cloud
-AWS | EC2 | ALB | ASG | RDS | VPC | IAM | S3
+---
 
-⚙️ Infrastructure as Code
-Terraform | Ansible
+## ☁️ Cloud & Infrastructure
 
-🚀 CI/CD
-GitHub Actions | Jenkins | GitLab CI
+**AWS:**  
+EC2 • ALB • Auto Scaling • RDS • VPC • IAM • S3 • Route 53 • CloudWatch
 
-☸️ Containers & Kubernetes
-Docker | Kubernetes | Helm
+**Infrastructure as Code:**  
+Terraform • Ansible
 
-📊 Observability
-Prometheus | Grafana | Loki | CloudWatch
+---
 
-🔐 Security
-IAM | VPC | Security Groups | DevSecOps
+## ⚙️ DevOps & Automation
 
-🔥 Featured Projects
+**CI/CD:**  
+GitHub Actions • Jenkins • GitLab CI
 
-1. AWS Infrastructure Automation
-2. CI/CD + Kubernetes
-3. FinOps / AWS Cost Optimization
-4. Observability Platform
-5. DevOps Learning Journey
+**Containers:**  
+Docker • Docker Compose
 
-📈 Engineering Focus
+**Linux & Automation:**  
+Linux • Bash • Shell Scripting
 
-Infrastructure automation
-Cloud architecture
-Production troubleshooting
-Reliability
-Cost optimization
-Observability
+---
 
-🌐 Portfolio
-🌐 LinkedIn
+## ☸️ Kubernetes
+
+Kubernetes • Helm • kind
+
+**Hands-on with:**
+
+- Deployments
+- Services
+- ConfigMaps
+- Secrets
+- StatefulSets
+- Persistent Volumes
+- Health Probes
+- Kubernetes Networking
+- Troubleshooting
+- Application Rollouts
+
+---
+
+## 📊 Observability
+
+Prometheus • Grafana • Loki • CloudWatch
+
+Focused on:
+
+- Infrastructure monitoring
+- Application health
+- Metrics and dashboards
+- Logs
+- Alerting
+- Troubleshooting
+
+---
+
+## 🔐 Security
+
+IAM • VPC • Security Groups • Secrets Management • DevSecOps
+
+I focus on applying security principles across infrastructure, deployments, credentials, networking, and operational workflows.
+
+---
+
+## 🔥 Featured Projects
+
+| Project | What it demonstrates |
+|---|---|
+| 🚀 [GitHub Actions + Kubernetes](https://github.com/jenidevops30/github-actions-kubernetes-masterclass) | CI/CD, Docker, EC2, Kubernetes, deployment automation and troubleshooting |
+| 💰 [AWS FinOps](https://github.com/jenidevops30/finops) | AWS cost analysis, cloud optimization and FinOps concepts |
+| ☁️ [AWS Billing Dashboard](https://github.com/jenidevops30/aws-billing-dashboard) | AWS billing data and cloud-cost visibility |
+| 🌐 [DevOps Portfolio](https://github.com/jenidevops30/portfolio) | Cloud, DevOps projects and technical documentation |
+| 📚 [90 Days of DevOps](https://github.com/jenidevops30/90DaysOfDevOps) | Hands-on learning, labs, notes and DevOps practice |
+
+---
+
+## 📈 Engineering Focus
+
+- Infrastructure automation
+- AWS cloud architecture
+- Infrastructure as Code
+- CI/CD automation
+- Kubernetes operations
+- Production troubleshooting
+- Observability and monitoring
+- Reliability engineering
+- Cloud cost optimization
+- Security and operational best practices
+
+---
+
+## 🚧 Currently Building
+
+- Production-oriented Kubernetes labs
+- Terraform-based AWS infrastructure
+- DevOps troubleshooting runbooks
+- Observability and monitoring experiments
+- AWS cost-optimization projects
+
+---
+
+## 🧠 How I Learn
+
+**Learn → Build → Break → Troubleshoot → Document → Improve**
+
+I believe the best way to learn DevOps is by building systems, intentionally breaking them, troubleshooting the failure, and documenting the solution.
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeni-patel-devops-engg)
+- 🌐 [Portfolio](https://jenidevops.in/)
+- 🐙 [GitHub](https://github.com/jenidevops30)
+
+---
+
+⭐ **If you find my projects useful, consider giving them a star!**
