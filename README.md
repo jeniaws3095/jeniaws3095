@@ -1,44 +1,47 @@
-# Hi, I'm Jeni Patel 👋
+👋 Hi, I'm Jeni Patel
 
-Cloud DevOps Engineer focused on AWS infrastructure, Kubernetes, Terraform, CI/CD automation, and observability platforms.
+Cloud & DevOps Engineer
+AWS | Kubernetes | Terraform | CI/CD | Observability
 
----
+🚀 About Me
 
-## 🚀 Cloud & DevOps Stack
+Cloud/DevOps engineer focused on building reliable,
+automated and observable infrastructure.
 
-* AWS
-* Kubernetes
-* Docker
-* Terraform
-* GitHub Actions
-* Jenkins
-* Linux
-* Prometheus
-* Grafana
-* Loki
+☁️ Cloud
+AWS | EC2 | ALB | ASG | RDS | VPC | IAM | S3
 
----
+⚙️ Infrastructure as Code
+Terraform | Ansible
 
-## 🔧 Currently Building
+🚀 CI/CD
+GitHub Actions | Jenkins | GitLab CI
 
-* AWS CI/CD Pipelines
-* Kubernetes Monitoring Stack
-* Infrastructure Automation Projects
-* FinOps Dashboard
-* Observability Platforms
+☸️ Containers & Kubernetes
+Docker | Kubernetes | Helm
 
----
+📊 Observability
+Prometheus | Grafana | Loki | CloudWatch
 
-## 📌 Featured Projects
+🔐 Security
+IAM | VPC | Security Groups | DevSecOps
 
-* AWS CI/CD Deployment Pipeline
-* Terraform AWS Infrastructure
-* Kubernetes Observability Stack
-* Grafana + Loki Monitoring Platform
+🔥 Featured Projects
 
----
+1. AWS Infrastructure Automation
+2. CI/CD + Kubernetes
+3. FinOps / AWS Cost Optimization
+4. Observability Platform
+5. DevOps Learning Journey
 
-## 🌐 Connect With Me
+📈 Engineering Focus
 
-* Portfolio: https://jenidevops.in/
-* LinkedIn: https://www.linkedin.com/in/jeni-patel-devops-engg/
+Infrastructure automation
+Cloud architecture
+Production troubleshooting
+Reliability
+Cost optimization
+Observability
+
+🌐 Portfolio
+🌐 LinkedIn
