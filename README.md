@@ -80,7 +80,7 @@
 | 🏗️ | [Shopify-Production-Infrastructure](https://github.com/jenidevops30/Shopify-Production-Infrastructure) | Production AWS case study — ALB, Auto Scaling, RDS, CloudWatch + Terraform demo |
 | 💰 | [aws-cost-optimization](https://github.com/jenidevops30/aws-cost-optimization) | $813→$357/month via Graviton migration + RDS right-sizing. Verified with Cost Explorer |
 | 🤖 | [finops](https://github.com/jenidevops30/finops) | Enterprise FinOps platform — Python ML + Node.js API + React dashboard |
-| 🌐 | [wishlist-infra](https://github.com/jenidevops30/wishlist-infra) | Production-style Terraform infra — VPC, ALB, ASG, RDS, CloudWatch |
+| 🌐 | [Shopify-Production-Infrastructure/terraform](https://github.com/jenidevops30/Shopify-Production-Infrastructure/tree/main/terraform) | Production-style Terraform infra — VPC, ALB, ASG, RDS, CloudWatch |
 | 💬 | [devops-chatbot](https://github.com/jenidevops30/devops-chatbot) | Gemini AI DevOps assistant — React, Node.js, Docker, GitHub Actions CI/CD |
 | ⚙️ | [inframint-config-engine](https://github.com/jenidevops30/inframint-config-engine) | DevOps config generator — Next.js + Go + PostgreSQL |
 | 📊 | [aws-billing-dashboard](https://github.com/jenidevops30/aws-billing-dashboard) | Streamlit dashboard for AWS Cost Explorer data |
